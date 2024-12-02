@@ -28,12 +28,3 @@ drwxr-xr-x@ 166 rahvis  staff   5312 Sep  8 16:08 conda-meta
 (hw2vec) rahvis@Rahuls-Air hw2vec % pwd
 /Users/rahvis/anaconda3/envs/hw2vec
 ```
-
-3. You can download the python source code from here:
-```
-https://drive.google.com/drive/folders/19PVEcR7Zzk9hRHltBA3bLQdOSkU3l_QR?usp=sharing
-```
-5. How to run: 
-```
-https://docs.google.com/document/d/1Mne4P7r1-p3JrDMkkIjdOqlDwltsBaWANK7PO98odac/edit?usp=share_link
-```
